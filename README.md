@@ -1,19 +1,5 @@
-<p align="center">
-    <a href="https://www.question2answer.org/">
-        <img src="https://www.question2answer.org/images/question2answer-logo-350x40.png" alt="Question2Answer" />
-    </a>
-</p>
 
-<p align="center">
-	<a href="https://travis-ci.org/q2a/question2answer/branches"><img src="https://img.shields.io/travis/q2a/question2answer/dev.svg" alt="Build Status"></a>
-	<a href="https://github.com/q2a/question2answer/issues"><img src="https://img.shields.io/github/issues/q2a/question2answer.svg" alt="Open Issues"></a>
-	<a href="https://github.com/q2a/question2answer/releases"><img src="https://img.shields.io/github/release/q2a/question2answer.svg" alt="Current Release"></a>
-	<a href="https://docs.question2answer.org/install/"><img src="https://img.shields.io/travis/php-v/q2a/question2answer/dev.svg" alt="PHP version"></a>
-	<a href="https://www.question2answer.org/license.php"><img src="https://img.shields.io/badge/License-GPL-green.svg" alt="License"></a>
-</p>
-
-[Question2Answer][Q2A] (Q2A) is a popular free open source Q&A platform for PHP/MySQL, used by over [22,000 sites in 40 languages][3].
-
+#All the credit goes to question2answer platform. Actually they provide all the source code . I just slightly changed or modified something and add some theme features with plugin for better looking and better performing . 
 
 ## Key features
 
@@ -23,8 +9,8 @@
 - Create experts, editors, moderators and admins.
 - Fast integrated search engine, plus checking for similar questions when asking.
 - Categories (up to 4 levels deep) and/or tagging.
-- Easy styling with [CSS themes][6].
-- Supports [translation][7] into any language.
+- Easy styling with CSS themes.
+- Supports translation into any language.
 - Custom sidebar, widgets, pages and links.
 - SEO features such as neat URLs, microformats and XML Sitemaps.
 - RSS, email notifications and personal news feeds.
@@ -42,7 +28,6 @@
 
 ## Plugins
 
-Q2A also features an extensive [plugin system][5]:
 
 - Modify the HTML output for a page with *layers*.
 - Add custom pages to a Q2A site with *page modules*.
@@ -55,22 +40,6 @@ Q2A also features an extensive [plugin system][5]:
 - Add extra spam protection with *captcha modules*.
 - Extend many core Q2A functions using *function overrides*.
 
-Q2A themes, plugins and language files created by other members are [available here][8].
 
 
-## Development
 
-Question2Answer is open source and we welcome contributions! The collaborative development process is being managed by [Scott Vivian][1]. Please read the [contributing page][2] for more information on how to get involved. We also have an [active community][4] where you can ask for help and discuss Q2A with other members.
-
-Official releases can be found either on the [Q2A website][Q2A] or via the Releases tab on GitHub.
-
-
-[Q2A]: https://www.question2answer.org/
-[1]: https://www.question2answer.org/qa/user/Scott
-[2]: https://github.com/q2a/question2answer/blob/master/CONTRIBUTING.md
-[3]: https://www.question2answer.org/sites.php
-[4]: https://www.question2answer.org/qa/
-[5]: https://docs.question2answer.org/plugins/
-[6]: https://docs.question2answer.org/themes/
-[7]: https://docs.question2answer.org/translate/
-[8]: https://docs.question2answer.org/addons/
