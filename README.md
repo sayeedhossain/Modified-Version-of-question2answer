@@ -40,6 +40,6 @@
 - Add extra spam protection with *captcha modules*.
 - Extend many core Q2A functions using *function overrides*.
 
-
+<h4>For any kind of problem , just feel free to contact with me through my mail (sayeedhatim@gmail.com)</h4>
 
 
