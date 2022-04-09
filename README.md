@@ -44,6 +44,6 @@ website link : https://www.muslimpoint.org/ </h4>
 - Add extra spam protection with *captcha modules*.
 - Extend many core Q2A functions using *function overrides*.
 
-<h4>For any kind of problem , just feel free to contact with me through my mail (sayeedhatim@gmail.com)</h4>
+<h4>Any further query? just feel free to contact at (me@sayeedhossain.com) </h4>
 
 
